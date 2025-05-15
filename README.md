@@ -1,4 +1,3 @@
-```
 <h1 align="center">Hi 👋, I'm Leonardo Franciulli</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
@@ -38,4 +37,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
-```
+
